@@ -1,0 +1,1 @@
+# aprendiendo python y probando git en el Informatorio 2025
